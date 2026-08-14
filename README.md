@@ -32,10 +32,10 @@ Estudante de Engenharia de Software apaixonado por tecnologia e em construção 
 
 ## 📊 GitHub Stats
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanmagalh&show_icons=true&theme=tokyonight&hide_border=true)
+![Ryan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ryanmagalh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanmagalh&layout=compact&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ryanmagalh&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Contato
